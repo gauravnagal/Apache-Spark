@@ -1,6 +1,7 @@
 '''
 To find average number of friends by age.
 Input data: id, name, age, number_of_friends
+Input file: Datasets/friendsandage.csv
 '''
 
 from pyspark import SparkConf, SparkContext
