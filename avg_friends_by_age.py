@@ -1,5 +1,6 @@
 '''
-To find average number of friends by age.
+To find average number of friends by age
+Concept used: key/value RDDs
 Input data: id, name, age, number_of_friends
 Input file: Datasets/friendsandage.csv
 '''
